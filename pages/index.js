@@ -9,7 +9,7 @@ export default function Home() {
           autoPlay
           muted
           loop
-          className="mx-auto h-[340px] w-[340px] p-2 bg-neutral-900/5 backdrop-blur-sm"
+          className="mx-auto h-[340px] w-[340px] p-2 bg-neutral-900"
         >
           <source src="assets/hero-video.mp4" />
         </video>
